@@ -2,10 +2,10 @@
 
 Baca dalam bahasa yang berbeda: [![ID](./assets/flags/ID.png)**ID**](./README.ID.md)
 
-## Table of Contents
+## Daftar Isi
 
-1. [Introduction](#introduction)
-2. [Variables](#variables)
+1. [Pengantar](#Pengantar)
+2. [Variabel](#Variabel)
 3. [Functions](#functions)
 4. [Objects and Data Structures](#objects-and-data-structures)
 5. [Classes](#classes)
@@ -17,7 +17,7 @@ Baca dalam bahasa yang berbeda: [![ID](./assets/flags/ID.png)**ID**](./README.ID
 11. [Comments](#comments)
 12. [Translation](#translation)
 
-## Introduction
+## Pengantar
 
 ![Humorous image of software quality estimation as a count of how many expletives
 you shout when reading code](https://www.osnews.com/images/comics/wtfm.jpg)
@@ -45,7 +45,7 @@ shaped into its final form. Finally, we chisel away the imperfections when
 we review it with our peers. Don't beat yourself up for first drafts that need
 improvement. Beat up the code instead!
 
-## **Variables**
+## **Variabel**
 
 ### Use meaningful and pronounceable variable names
 
